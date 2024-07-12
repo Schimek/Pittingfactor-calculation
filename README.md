@@ -1,6 +1,6 @@
 # Pittingfactor calculation for degraded wire's
 
-Usage: Used to calculate the Pitting factor of degraded wires for Micro-CT Image data
+Usage: Used to calculate the Pittingfactor of degraded wires for micro-CT image data
 
 Input: 2D-Tif Image data
 
