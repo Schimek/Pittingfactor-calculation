@@ -4,7 +4,7 @@ Usage: Used to calculate the Pittingfactor of degraded wires for micro-CT image 
 
 Input: 2D-Tif Image data
 
-Output: 2D/3D Pittingfactor, Mean Degradation Depth and Deepest Pit per slice
+Output: 2D/3D Pittingfactor, Mean Degradation Depth and Deepest Pit
 
 Written by: Sven Schimek, André Lopes Marinho
 
